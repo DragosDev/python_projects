@@ -1,0 +1,4 @@
+Run this into your terminal to install the next ttwo modules
+
+pip install pillow
+pip install qrcode
